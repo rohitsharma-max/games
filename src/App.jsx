@@ -23,7 +23,7 @@ function App() {
             <span className="slider"></span>
           </label>
           <span className="mode-label">
-            Office Mode
+            Dark Mode
           </span>
         </div>
         <select
