@@ -304,13 +304,19 @@
     margin: 16px auto !important;
     width: 330px !important;
   }
+
+  p.stars-display {
+    font-size: 18px !important;
+    text-transform: uppercase;
+  }
 }
 
 @media only screen and (max-width: 410px) {
   .game-container {
     width: 280px !important;
   }
-  .memory-game-container{
+
+  .memory-game-container {
     width: 275px !important;
   }
 }
@@ -340,10 +346,10 @@
 }
 
 .outer-right {
-    display: flex;
-    align-items: end;
-    flex-direction: column;
-    margin-right: 40px;
+  display: flex;
+  align-items: end;
+  flex-direction: column;
+  margin-right: 40px;
 }
 
 h1 {
